@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 😄
 
-<!--
-**LucianeMarcoSabbi/LucianeMarcoSabbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Luciane Marco Sabbi
+- Estou estudando na plataforma [Alura](https://Alura.com.br)
+- Atualmente sou professora de Pensamento Computacional;
+- Estou me desenvolvendo nos vários tipos de linguagem;
+- Utilizo este espaço para organização e compartilhamento dos meus projetos;
 
-Here are some ideas to get you started:
+### Você pode entrar em contato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+luciane.marco@escola.pr.gov.br
+
+![image](https://github.com/LucianeMarcoSabbi/LucianeMarcoSabbi/assets/146887147/f5897d4b-bd3e-4318-9fbf-e32522c60296)
+
